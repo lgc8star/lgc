@@ -3,6 +3,9 @@ package cn.kgc;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author LiGuoCan
+ */
 @SpringBootApplication
 public class DemoApplication {
 

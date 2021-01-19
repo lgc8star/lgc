@@ -1,2 +1,7 @@
 server:
   port: 8080
+user:
+  id: 1
+  user-Name: 李国灿
+  birthday: 2001/06/01
+  email: 790135325@qq.com
